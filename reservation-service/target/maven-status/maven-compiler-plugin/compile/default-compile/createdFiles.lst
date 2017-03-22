@@ -1,0 +1,4 @@
+com\microservices\ReservationServiceApplication.class
+com\microservices\SeatRepository.class
+com\microservices\Seats.class
+com\microservices\SeatController.class

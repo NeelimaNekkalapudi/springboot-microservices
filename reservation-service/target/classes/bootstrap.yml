@@ -1,0 +1,9 @@
+server:
+ port: 7000
+
+spring:
+ application:
+  name: names
+ cloud:
+  config:
+   uri: http://localhost:8761
